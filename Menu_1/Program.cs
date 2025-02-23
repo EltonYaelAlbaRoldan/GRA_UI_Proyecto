@@ -219,7 +219,6 @@ internal class Program
                 }
             }
         }
-
         Console.SetCursorPosition(40, 28);
         Console.ForegroundColor = ConsoleColor.Green;
         Console.Write("Listo!!! presiona una tecla para continuar");
